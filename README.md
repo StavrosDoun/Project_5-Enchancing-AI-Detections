@@ -9,7 +9,7 @@ Data Preparation:
 Prepare the data for analysis and modeling by cleaning, preprocessing, and feature engineering.
 
 Statistical Analysis:
-Apply mean and quantile corrections to all the models used in the project.
+Apply mean and quantile correction to all the models used in the project.
 
 Machine Learning Modeling:
 Train machine learning models using appropriate algorithms and techniques tailored to the detection task.
