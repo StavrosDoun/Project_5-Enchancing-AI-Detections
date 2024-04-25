@@ -2,7 +2,7 @@
 This repository focuses on enhancing AI detections through the application of statistical methods and machine learning techniques.
 The project aims to improve the accuracy, efficiency, and robustness of AI-based detection systems by leveraging advanced data analysis and modeling approaches.
 
-Collaboration with Eden Library
+Collaboration with Eden Library:
 This project is conducted in collaboration with the Eden Library, a leading research institution in the field of artificial intelligence and machine learning. The collaboration brings together expertise from both academia and industry to address the challenges of enhancing AI detections.
 
 Data Preparation: 
